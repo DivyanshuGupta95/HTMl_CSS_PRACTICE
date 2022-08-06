@@ -1,0 +1,153 @@
+body{
+    background-color: rgb(247, 243, 236);  /*249,233,205*/
+    list-style: none;
+    
+    margin-left: 50px;
+    
+}
+.image{
+    margin-left: 330px;
+}
+.box{
+    margin-left: 350px;
+    margin-top: 50px; 
+    border-radius: 10px;
+    border: 8px solid rgb(56, 55, 53); 
+    text-align: center; 
+    font-size: 25px;
+    width: 100px;
+    height: 30px;        
+    padding-bottom: 30px;  
+    color: rgb(56, 55, 53);
+}
+
+h1{
+    display: inline; 
+    font-family: Caveat;
+    text-align: center;
+    text-align: center;
+}
+.red-block{
+    margin-left: 300px;
+    background-color: rgb(207, 92, 92);
+    border-radius: 10px;
+    color: beige;
+    height: 45px;
+    width: 700px;
+    padding-top: 10px;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-family: 'Dosis';
+    font-weight: bold;
+    letter-spacing: 2.5px;
+    text-align: center;
+}
+.block-one{    
+    width: 700px;
+    
+    margin-left: 300px; 
+    margin-top: 20px;    
+    margin-bottom: 20px;
+    text-align: center;
+}
+.block-one h1{
+    text-transform: uppercase;
+    font-size: 80px;
+    letter-spacing: 12px;
+    font-family: 'Dosis';
+    color: rgb(68, 63, 63);    
+}
+.block-one p{
+    font-size: 25px;
+    line-height: 40px;
+    letter-spacing: 3px;
+    font-weight: 597;
+    font-family: 'Bitter';
+    color: rgb(82, 78, 78);
+}
+.block-one hr{
+    background-color: rgb(207, 92, 92);
+    border-radius: 10px;
+    height: 13px;
+    width: 700px;
+}
+.block-two h2{
+    margin-left: 300px;
+    margin-top: 60px;
+    font-family: 'Bitter';
+    color: rgb(82, 78, 78);
+    text-transform: uppercase;
+    font-size: 35px;
+    font-weight: lighter;
+}
+.block-two hr{
+    margin-left: 250px;
+    width: 800px;
+    height: 0.01cm;
+    background-color: rgb(209, 204, 204);
+    border: none;    
+}
+.block-two ul hr{
+    margin-left: 208px;
+    width: 800px;
+    height: 0.01cm;
+    background-color: rgb(209, 204, 204);
+    border: none;  
+}
+.block-two ul li h3 a{
+    margin-left: 250px;
+    font-family: 'Dosis';
+    color: rgb(82, 78, 78);
+    font-size: 40px;
+    text-transform: uppercase;
+    text-decoration: none;   
+    letter-spacing: 3px;
+    font-weight: bolder;
+     
+}
+.block-two ul li p{
+    margin-left: 250px;
+    font-family: 'Dosis';
+    color: rgb(163, 157, 157);
+    font-size: 25px;
+    margin-top: -10px;
+}
+
+.block-three nav ul li a{
+    margin-left: 280px;
+    font-family: 'Dosis';
+    color: rgb(73, 69, 69);
+    font-size: 30px;
+    text-transform: uppercase;
+    text-decoration: none;   
+    letter-spacing: 3px;
+    font-weight: bolder;
+    line-height: 50px;
+    
+}
+.block-three>hr{
+    margin-top: 50px;
+    background-color: rgb(207, 92, 92);
+    border-radius: 10px;
+    height: 13px;
+    width: 700px;   
+    font-weight: bolder;
+    margin-bottom: 50px;
+}
+.block-three ul hr{
+    margin-left: 200px;
+    width: 800px;
+    height: 0.01cm;
+    background-color: rgb(209, 204, 204);
+    border: none;    
+}
+.block-four{
+    margin-top: 70px;
+    margin-left: 250px;
+    font-size: 25px;
+    margin-bottom: 80px;
+}
+.block-four a{
+    text-decoration: none;
+    color:  rgb(73, 69, 69);
+}
